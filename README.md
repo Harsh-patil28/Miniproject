@@ -4,4 +4,4 @@ This project is dedicated to the realization of Power efficent 4-bit carry Selec
 
 <img src="https://github.com/Harsh-patil28/Miniproject/blob/main/28T%20Design/CSA.png" width="1000" height="500">
 
-For Depth Analysis go to: https://github.com/Harsh-patil28/Miniproject/tree/main/28T%20Design
+For Depth Analysis of 28T design go to: https://github.com/Harsh-patil28/Miniproject/tree/main/28T%20Design
